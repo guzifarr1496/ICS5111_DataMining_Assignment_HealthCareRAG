@@ -1,38 +1,48 @@
-# AI Response Generator 🚀
+# ICS5111 Data Mining in Healthcare 🚀
 
 A Python-based AI-powered response generator using GPT-2. This project retrieves text data, processes queries, and generates informative answers.
 
 ## 📌 Features
 ✅ Uses **GPT-2** for text generation  
 ✅ Supports **dense and sparse retrieval** for relevant context  
-✅ Interactive **Streamlit web app** for online usage  
-✅ Works with **Jupyter Notebook** and **Google Colab**  
+✅ Works with **Jupyter Notebook** for testing and experimentation  
+✅ Processes **pharmacology datasets** for text-based AI generation  
 
 ---
 
 ## 📂 Project Structure
-📁 AI_Response_Generator 
-📄 app.py # Streamlit app (for web interface)
-📄 model.py # Model loading and response generation
-📄 data_processing.py # Text data preprocessing scripts
-📂 data # Folder containing .txt and .xlsx files
-📄 README.md # Project documentation (this file)
-📄 requirements.txt # Dependencies for deployment
-📄 notebook.ipynb # Jupyter Notebook for testing
+📁 ICS5111_DataMining_HealthCare_Assignment  
+📄 Database_Build_v8.1.ipynb # Jupyter Notebook for testing  
+📄 EMA - medicines_output_medicines_en.xlsx # Dataset file  
+📂 data # Folder containing .txt and .xlsx files  
+📄 README.md # Project documentation (this file)  
+📄 requirements.txt # Dependencies for deployment  
 
 ---
-University of Malta
-ICS5111 - Large Scale Mining of Data - Assignment
-Project by Fairooz Azim & Giuseppe Farrugia
+
+## 📖 University of Malta  
+**ICS5111 - Large Scale Mining of Data - Assignment**  
+Project by **Fairooz Azim & Giuseppe Farrugia**  
+
+---
 
 ## 🛠 Installation
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/AI_Response_Generator.git
-cd AI_Response_Generator
+git clone https://github.com/guzifarr1496/ICS5111_DataMining_HealthCare_Assignment.git
+cd ICS5111_DataMining_HealthCare_Assignment
 
-pip install -r requirements.txt
 
-streamlit run app.py
 
+---
+
+### **✅ Next Steps**
+1. Open `README.md` in Notepad, VS Code, or any text editor.
+2. Replace the contents with the updated version above.
+3. Save the file.
+4. Run the following commands to fix the conflict:
+   ```bash
+   git add README.md
+   git rebase --continue
+   git push origin main --force
