@@ -11,14 +11,6 @@ tqdm
 biopython
 streamlit
 
-# Database
-sqlite3  # (built-in, not needed in requirements.txt)
-
-# Logging & System Utilities
-logging  # (built-in, not needed in requirements.txt)
-os       # (built-in, not needed in requirements.txt)
-time     # (built-in, not needed in requirements.txt)
-
 # Extra Dependencies (optional)
 scipy  # Required for some machine learning tasks
 regex  # Improved text processing
