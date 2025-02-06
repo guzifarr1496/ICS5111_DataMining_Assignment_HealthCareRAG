@@ -5,7 +5,7 @@ torch
 transformers
 sentence-transformers
 faiss-cpu
-sklearn
+scikit-learn
 nltk
 tqdm
 biopython
