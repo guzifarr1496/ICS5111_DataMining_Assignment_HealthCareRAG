@@ -9,6 +9,7 @@ sklearn
 nltk
 tqdm
 biopython
+streamlit
 
 # Database
 sqlite3  # (built-in, not needed in requirements.txt)
